@@ -6,7 +6,7 @@ Submitted by:
 - **Michael Danquah-Tabbi**
 - **Isaac Robinson**
 
-Time spent: **X** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Summary
 
@@ -36,7 +36,7 @@ The following REQUIRED files are included:
 
 The following BONUS features are implemented:
 
-- [ ] Added digital wireframe/mockup image(s)
+- [ X ] Added digital wireframe/mockup image(s)
 - [ ] Added a Video/GIF of an interactive prototype
 
 The following EXTRA features are implemented:
